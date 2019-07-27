@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(130, 194, 114);
+    width: 100%;
+    margin: 20px 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.wrapper{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    border-radius: 15px;
+    text-align: center;
+}
+header{
+    padding: 30px;
+}
+.main{
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 50px;
+}
+section{
+    float: left;
+}
+aside{
+    float:right;
+}
+
